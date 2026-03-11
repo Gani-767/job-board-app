@@ -7,13 +7,6 @@ This project demonstrates **React component architecture, filtering logic, respo
 
 ---
 
-## Live Demo
-(After deployment add your link here)
-
-https://your-app-link.vercel.app
-
----
-
 ## Features
 
 ### 1. Browse Gigs
@@ -124,3 +117,40 @@ Fully responsive for:
 
 ---
 
+
+
+
+---
+
+## Installation & Running Locally
+
+### 1. Clone the repository
+```bash
+
+git clone https://github.com/Gani-767/job-board-app.git
+
+```
+
+### 2. Navigate to project
+
+```bash
+cd job-board-app
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start development server
+
+```bash
+npm run dev
+```
+
+The app will run at:
+
+```bash
+http://localhost:5173
+```
