@@ -1,0 +1,222 @@
+export const gigs = [
+{
+id:1,
+title:"Build SaaS landing page",
+category:"Web Development",
+budget:15000,
+experienceLevel:"Intermediate",
+description:"Create modern landing page for SaaS product",
+postedDate:"2026-03-01",
+clientName:"Ganesh",
+location:"Remote"
+},
+{
+id:2,
+title:"Mobile fitness app UI design",
+category:"Design",
+budget:20000,
+experienceLevel:"Expert",
+description:"Design UI screens for fitness mobile application",
+postedDate:"2026-03-02",
+clientName:"Sagar",
+location:"Hyderabad"
+},
+{
+id:3,
+title:"Write SEO blog articles",
+category:"Writing",
+budget:8000,
+experienceLevel:"Beginner",
+description:"Need SEO articles for marketing blog",
+postedDate:"2026-03-03",
+clientName:"Anil",
+location:"Remote"
+},
+{
+id:4,
+title:"Logo and branding kit",
+category:"Design",
+budget:12000,
+experienceLevel:"Intermediate",
+description:"Create logo and branding guidelines",
+postedDate:"2026-03-03",
+clientName:"Ajay",
+location:"Bangalore"
+},
+{
+id:5,
+title:"Build REST API with Node",
+category:"Web Development",
+budget:25000,
+experienceLevel:"Expert",
+description:"Develop backend APIs for product",
+postedDate:"2026-03-04",
+clientName:"Karthik",
+location:"Remote"
+},
+{
+id:6,
+title:"Social media posts design",
+category:"Marketing",
+budget:7000,
+experienceLevel:"Beginner",
+description:"Create marketing posts for social media",
+postedDate:"2026-03-04",
+clientName:"Surya",
+location:"Chennai"
+},
+{
+id:7,
+title:"Ecommerce website development",
+category:"Web Development",
+budget:30000,
+experienceLevel:"Expert",
+description:"Develop ecommerce site with payment integration",
+postedDate:"2026-03-05",
+clientName:"Naveen",
+location:"Remote"
+},
+{
+id:8,
+title:"Website wireframe design",
+category:"Design",
+budget:9000,
+experienceLevel:"Intermediate",
+description:"Create wireframes for SaaS dashboard",
+postedDate:"2026-03-05",
+clientName:"Sammer",
+location:"Pune"
+},
+{
+id:9,
+title:"Technology blog writing",
+category:"Writing",
+budget:6000,
+experienceLevel:"Beginner",
+description:"Write articles about web technologies",
+postedDate:"2026-03-06",
+clientName:"Prashanth",
+location:"Remote"
+},
+{
+id:10,
+title:"Fintech dashboard UI",
+category:"Design",
+budget:18000,
+experienceLevel:"Expert",
+description:"Design dashboard UI for fintech product",
+postedDate:"2026-03-06",
+clientName:"Kavya",
+location:"Hyderabad"
+},
+{
+id:11,
+title:"React dashboard components",
+category:"Web Development",
+budget:22000,
+experienceLevel:"Intermediate",
+description:"Build reusable dashboard components",
+postedDate:"2026-03-07",
+clientName:"Sarayu",
+location:"Remote"
+},
+{
+id:12,
+title:"Product descriptions writing",
+category:"Writing",
+budget:5000,
+experienceLevel:"Beginner",
+description:"Write ecommerce product descriptions",
+postedDate:"2026-03-07",
+clientName:"Samreen",
+location:"Delhi"
+},
+{
+id:13,
+title:"Landing page redesign",
+category:"Design",
+budget:14000,
+experienceLevel:"Intermediate",
+description:"Improve UI of existing landing page",
+postedDate:"2026-03-08",
+clientName:"Santhosh",
+location:"Remote"
+},
+{
+id:14,
+title:"Portfolio website",
+category:"Web Development",
+budget:10000,
+experienceLevel:"Beginner",
+description:"Create personal portfolio site",
+postedDate:"2026-03-08",
+clientName:"Vishnu",
+location:"Bangalore"
+},
+{
+id:15,
+title:"Email marketing campaign",
+category:"Marketing",
+budget:9000,
+experienceLevel:"Intermediate",
+description:"Setup email campaign automation",
+postedDate:"2026-03-09",
+clientName:"Sai Kiran",
+location:"Remote"
+},
+{
+id:16,
+title:"Fix React bugs",
+category:"Web Development",
+budget:12000,
+experienceLevel:"Intermediate",
+description:"Fix issues in existing React project",
+postedDate:"2026-03-09",
+clientName:"Narender",
+location:"Hyderabad"
+},
+{
+id:17,
+title:"SEO website audit",
+category:"Marketing",
+budget:11000,
+experienceLevel:"Expert",
+description:"Perform SEO audit and report",
+postedDate:"2026-03-10",
+clientName:"Narasimha",
+location:"Remote"
+},
+{
+id:18,
+title:"Video script writing",
+category:"Writing",
+budget:7500,
+experienceLevel:"Intermediate",
+description:"Script for product explainer video",
+postedDate:"2026-03-10",
+clientName:"Nagaraju",
+location:"Chennai"
+},
+{
+id:19,
+title:"React admin panel",
+category:"Web Development",
+budget:26000,
+experienceLevel:"Expert",
+description:"Develop scalable admin dashboard",
+postedDate:"2026-03-11",
+clientName:"Guru",
+location:"Remote"
+},
+{
+id:20,
+title:"Marketing banner design",
+category:"Design",
+budget:6000,
+experienceLevel:"Beginner",
+description:"Design banners for campaigns",
+postedDate:"2026-03-11",
+clientName:"Dheeraj",
+location:"Mumbai"
+}
+]
