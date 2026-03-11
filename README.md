@@ -1,16 +1,126 @@
-# React + Vite
+# Job Board Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **Freelance Job Board Web Application** built using **React + Vite + TailwindCSS**.  
+Users can browse freelance gigs, search jobs in real time, apply filters, sort results, and view gig details.
 
-Currently, two official plugins are available:
+This project demonstrates **React component architecture, filtering logic, responsive design, and state management using hooks**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Live Demo
+(After deployment add your link here)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://your-app-link.vercel.app
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+### 1. Browse Gigs
+- Displays a list of freelance gigs in a responsive grid
+- Each card shows:
+  - Job Title
+  - Category
+  - Budget
+  - Experience Level
+  - Posted Date
+
+---
+
+### 2. Real-Time Search
+- Search gigs by **title or description**
+- Case-insensitive filtering
+- Results update instantly while typing
+
+---
+
+### 3. Category Filter
+Users can filter gigs by category:
+- Web Development
+- Mobile Development
+- Design
+- Writing
+- Marketing
+
+Supports **multiple selections simultaneously**.
+
+---
+
+### 4. Budget Range Filter
+Users can filter jobs within a salary range.
+
+Example:
+Min Budget: ₹10,000  
+Max Budget: ₹30,000
+
+Only gigs within this range will appear.
+
+---
+
+### 5. Experience Level Filter
+Options include:
+- All
+- Beginner
+- Intermediate
+- Expert
+
+---
+
+### 6. Sorting
+Users can sort results by:
+
+- Newest First (default)
+- Oldest First
+- Highest Budget
+- Lowest Budget
+
+---
+
+### 7. Gig Detail Modal
+Clicking a gig card opens a modal displaying:
+
+- Full job description
+- Client name
+- Location
+- Budget
+- Experience level
+- Posted date
+
+---
+
+### 8. Result Counter
+Displays:
+
+Showing **X of Y gigs**
+
+---
+
+### 9. Clear All Filters
+Users can reset:
+- Search
+- Filters
+- Sorting
+
+With one click.
+
+---
+
+### 10. Responsive Design
+Fully responsive for:
+
+- Mobile (375px)
+- Tablet (768px)
+- Desktop (1440px)
+
+---
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6)
+- React Hooks
+
+---
+
